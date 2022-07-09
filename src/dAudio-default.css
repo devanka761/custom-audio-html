@@ -1,0 +1,9 @@
+:root {
+    --dAudioBg: #555;
+    --dAudioPlay: #ffa500;
+    --dAudioPause: #ffa500;
+    --dAudioStop: #ffa500;
+    --dAudioThumb: #ffa500;
+    --dAudioTrack: #2b2b2b;
+    --dAudioText: #ffffff;
+}
