@@ -104,13 +104,13 @@ class DevankaAudio extends HTMLElement{
     customElements.define("d-audio", DevankaAudio);
     const styleLink = document.createElement("link");
     styleLink.rel = "stylesheet"
-    styleLink.href = "./src/dAudio-style.css";
+    styleLink.href = "https://cdn.statically.io/gh/devanka761/custom-audio-html/main/src/dAudio-style.css";
     styleLink.setAttribute("data-dAudio", "dAudiStyle");
     document.querySelector("head").appendChild(styleLink);
     
     const configLink = document.createElement("link");
     configLink.rel = "stylesheet";
-    configLink.href = "./src/dAudio-default.css";
+    configLink.href = "https://cdn.statically.io/gh/devanka761/custom-audio-html/main/src/dAudio-default.css";
     configLink.setAttribute("data-dAudio", "dAudiConfig");
     document.querySelector("head").appendChild(configLink);
 }());
