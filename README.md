@@ -21,6 +21,7 @@ Ada 3 tipe thumb yang bisa dipakai. Yaitu lingkaran (circle), persegi (square), 
 > ```html
 > <d-audio class="square" src="PATHAUDIO.mp3"><d-audio>
 > ```
+> ### Persegi Panjang
 > ```html
 > <d-audio class="rectangle" src="PATHAUDIO.mp3"><d-audio>
 > ```
