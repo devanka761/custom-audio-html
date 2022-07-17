@@ -4,7 +4,7 @@ Yup, seperti deskripsi singkatnya. Ini custom tag audio untuk HTML kita!
 ## INSTALASI (INSTALLATION)
 Letakan tag script ini pada bagian sebelum penutup body
 ```html
-<script src="https://cdn.statically.io/gh/devanka761/custom-audio-html/main/dAudio.js"></script>
+<script src="https://cdn.statically.io/gh/devanka761/d-audio/main/dAudio.js"></script>
 ```
 ## PENGGUNAAN (HOW TO USE)
 Cukup gunakan tag di bawah ini selayaknya tag ```<audio>```.
@@ -42,3 +42,7 @@ Ada 3 tipe thumb yang bisa dipakai. Yaitu lingkaran (circle), persegi (square), 
 >     --dAudioText: #ffffff;
 > }
 [SUBSCRIBE DEVANKA761 :V](https://www.youtube.com/c/RG761)
+
+My Other Projects:
+1. [D-Audio (Custom Audio Tag Design)](https://github.com/devanka761/d-audio)
+2. [KIRIMIN (Advanced Chat App)](https://github.com/devanka761/chat-app)
